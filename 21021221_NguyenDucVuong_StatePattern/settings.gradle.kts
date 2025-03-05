@@ -1,2 +1,2 @@
-rootProject.name = "21021221_NguyenDucVuong_DesignPattern"
+rootProject.name = "21021221_NguyenDucVuong_StatePattern"
 
